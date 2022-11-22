@@ -1,0 +1,115 @@
+
+> @ignite-ui/docs@1.0.0 build
+> build-storybook
+
+info @storybook/react v6.5.13
+info 
+info => Cleaning outputDir: /var/www/ignite/modulo_react/projeto_05/05-design-system/packages/docs/storybook-static
+info => Loading presets
+info => Loading custom manager config
+info => Compiling manager..
+info => Loading custom manager config
+vite v3.2.3 building for production...
+transforming...
+Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
+✓ 1458 modules transformed.
+rendering chunks...
+storybook-static/iframe.html                                          13.48 KiB
+storybook-static/assets/jsx-runtime.bfa0ffd6.js                       1.06 KiB / gzip: 0.65 KiB
+storybook-static/assets/jsx-runtime.bfa0ffd6.js.map                   2.13 KiB
+storybook-static/assets/es.map.constructor.b76d9733.js                0.24 KiB / gzip: 0.20 KiB
+storybook-static/assets/es.map.constructor.b76d9733.js.map            0.75 KiB
+storybook-static/assets/index.5e93577f.js                             7.21 KiB / gzip: 2.95 KiB
+storybook-static/assets/index.5e93577f.js.map                         15.36 KiB
+storybook-static/assets/string.061b35f4.js                            0.36 KiB / gzip: 0.28 KiB
+storybook-static/assets/string.061b35f4.js.map                        1.08 KiB
+storybook-static/assets/preview.261cb3eb.js                           0.78 KiB / gzip: 0.48 KiB
+storybook-static/assets/preview.261cb3eb.js.map                       7.27 KiB
+storybook-static/assets/config.d03f1255.js                            5.87 KiB / gzip: 2.33 KiB
+storybook-static/assets/config.d03f1255.js.map                        20.26 KiB
+storybook-static/assets/make-decorator.143cfe0f.js                    0.84 KiB / gzip: 0.49 KiB
+storybook-static/assets/make-decorator.143cfe0f.js.map                2.99 KiB
+storybook-static/assets/preview.41e43ab4.js                           1.84 KiB / gzip: 0.67 KiB
+storybook-static/assets/preview.41e43ab4.js.map                       4.19 KiB
+storybook-static/assets/preview.08ca5aae.js                           4.47 KiB / gzip: 1.71 KiB
+storybook-static/assets/preview.08ca5aae.js.map                       16.78 KiB
+storybook-static/assets/es.number.to-fixed.9c36a67b.js                1.65 KiB / gzip: 1.00 KiB
+storybook-static/assets/es.number.to-fixed.9c36a67b.js.map            8.00 KiB
+storybook-static/assets/preview.4e6aae57.js                           9.52 KiB / gzip: 3.34 KiB
+storybook-static/assets/preview.4e6aae57.js.map                       38.45 KiB
+storybook-static/assets/preview.3c423645.js                           0.33 KiB / gzip: 0.25 KiB
+storybook-static/assets/preview.3c423645.js.map                       0.54 KiB
+storybook-static/assets/preview.5197fb1a.js                           7.96 KiB / gzip: 1.66 KiB
+storybook-static/assets/preview.5197fb1a.js.map                       16.87 KiB
+storybook-static/assets/home.stories.a407fba7.js                      1.19 KiB / gzip: 0.70 KiB
+storybook-static/assets/home.stories.a407fba7.js.map                  1.15 KiB
+storybook-static/assets/preview.7424c69e.js                           10.17 KiB / gzip: 3.94 KiB
+storybook-static/assets/preview.7424c69e.js.map                       42.64 KiB
+storybook-static/assets/index.75b2c3cd.js                             0.86 KiB / gzip: 0.46 KiB
+storybook-static/assets/index.75b2c3cd.js.map                         2.43 KiB
+storybook-static/assets/colors.stories.eeb78002.js                    9.29 KiB / gzip: 3.96 KiB
+storybook-static/assets/colors.stories.eeb78002.js.map                142.61 KiB
+storybook-static/assets/preview.4592d2d0.js                           26.36 KiB / gzip: 8.32 KiB
+storybook-static/assets/preview.4592d2d0.js.map                       102.60 KiB
+storybook-static/assets/font-sizes.stories.75f4077f.js                1.32 KiB / gzip: 0.75 KiB
+storybook-static/assets/font-sizes.stories.75f4077f.js.map            1.38 KiB
+storybook-static/assets/TokensGrid.af1b577e.js                        1.06 KiB / gzip: 0.54 KiB
+storybook-static/assets/TokensGrid.af1b577e.js.map                    1.62 KiB
+storybook-static/assets/font-weights.stories.2e6b9861.js              1.31 KiB / gzip: 0.74 KiB
+storybook-static/assets/font-weights.stories.2e6b9861.js.map          1.37 KiB
+storybook-static/assets/line-heights.stories.191c451f.js              1.31 KiB / gzip: 0.74 KiB
+storybook-static/assets/line-heights.stories.191c451f.js.map          1.37 KiB
+storybook-static/assets/fonts.stories.f4a9e467.js                     1.31 KiB / gzip: 0.74 KiB
+storybook-static/assets/fonts.stories.f4a9e467.js.map                 1.34 KiB
+storybook-static/assets/radii.stories.111e7a1a.js                     1.29 KiB / gzip: 0.73 KiB
+storybook-static/assets/radii.stories.111e7a1a.js.map                 1.32 KiB
+storybook-static/assets/Box.stories.2b9535e0.js                       0.34 KiB / gzip: 0.25 KiB
+storybook-static/assets/Box.stories.2b9535e0.js.map                   0.10 KiB
+storybook-static/assets/space.stories.4d82d94f.js                     1.30 KiB / gzip: 0.75 KiB
+storybook-static/assets/space.stories.4d82d94f.js.map                 1.35 KiB
+storybook-static/assets/Text.stories.4cdd771d.js                      0.51 KiB / gzip: 0.35 KiB
+storybook-static/assets/Text.stories.4cdd771d.js.map                  0.10 KiB
+storybook-static/assets/client.1b23d97f.js                            0.67 KiB / gzip: 0.42 KiB
+storybook-static/assets/client.1b23d97f.js.map                        0.90 KiB
+storybook-static/assets/renderDocs.43505fca.js                        2.65 KiB / gzip: 1.29 KiB
+storybook-static/assets/renderDocs.43505fca.js.map                    9.54 KiB
+storybook-static/assets/index.badf87fb.js                             2.49 KiB / gzip: 1.22 KiB
+storybook-static/assets/index.badf87fb.js.map                         5.96 KiB
+storybook-static/assets/es.string.from-code-point.2aeddffb.js         0.52 KiB / gzip: 0.38 KiB
+storybook-static/assets/es.string.from-code-point.2aeddffb.js.map     2.13 KiB
+storybook-static/assets/es.regexp.flags.016f7e2f.js                   0.60 KiB / gzip: 0.42 KiB
+storybook-static/assets/es.regexp.flags.016f7e2f.js.map               2.68 KiB
+storybook-static/assets/GlobalScrollAreaStyles-8793ce4a.e05f7bca.js   10.33 KiB / gzip: 2.36 KiB
+storybook-static/assets/GlobalScrollAreaStyles-8793ce4a.e05f7bca.js.map 20.39 KiB
+storybook-static/assets/index.ea32f313.js                             18.94 KiB / gzip: 7.34 KiB
+storybook-static/assets/index.ea32f313.js.map                         44.25 KiB
+storybook-static/assets/WithTooltip-167e9982.9b4ade45.js              40.44 KiB / gzip: 13.54 KiB
+storybook-static/assets/WithTooltip-167e9982.9b4ade45.js.map          176.40 KiB
+storybook-static/assets/TokensGrid.37594f72.css                       0.42 KiB / gzip: 0.22 KiB
+storybook-static/assets/index.8b5931f2.js                             59.72 KiB / gzip: 21.77 KiB
+storybook-static/assets/index.8b5931f2.js.map                         266.70 KiB
+storybook-static/assets/Color-f953d088.c460d0a8.js                    33.86 KiB / gzip: 12.77 KiB
+storybook-static/assets/Color-f953d088.c460d0a8.js.map                129.52 KiB
+storybook-static/assets/OverlayScrollbars-1355f44c.0df2aa28.js        63.21 KiB / gzip: 26.82 KiB
+storybook-static/assets/OverlayScrollbars-1355f44c.0df2aa28.js.map    430.15 KiB
+storybook-static/assets/index.dfa4109f.js                             135.69 KiB / gzip: 44.59 KiB
+storybook-static/assets/index.dfa4109f.js.map                         327.54 KiB
+storybook-static/assets/syntaxhighlighter-b07b042a.3a841e3d.js        125.90 KiB / gzip: 47.90 KiB
+storybook-static/assets/syntaxhighlighter-b07b042a.3a841e3d.js.map    455.28 KiB
+storybook-static/assets/config.fd884659.js                            411.89 KiB / gzip: 119.90 KiB
+storybook-static/assets/config.fd884659.js.map                        1413.00 KiB
+storybook-static/assets/Props.27d6c408.js                             411.48 KiB / gzip: 121.23 KiB
+storybook-static/assets/Props.27d6c408.js.map                         880.39 KiB
+info => Manager built (22 s)
+storybook-static/assets/iframe.347eb5d5.js                            505.54 KiB / gzip: 140.83 KiB
+storybook-static/assets/iframe.347eb5d5.js.map                        1394.12 KiB
+storybook-static/assets/formatter-0d5cb0eb.18a3c5ee.js                740.91 KiB / gzip: 234.00 KiB
+storybook-static/assets/formatter-0d5cb0eb.18a3c5ee.js.map            1741.89 KiB
+
+(!) Some chunks are larger than 500 KiB after minification. Consider:
+- Using dynamic import() to code-split the application
+- Use build.rollupOptions.output.manualChunks to improve chunking: https://rollupjs.org/guide/en/#outputmanualchunks
+- Adjust chunk size limit for this warning via build.chunkSizeWarningLimit.
+info => Output directory: /var/www/ignite/modulo_react/projeto_05/05-design-system/packages/docs/storybook-static
