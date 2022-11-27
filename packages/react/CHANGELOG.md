@@ -1,5 +1,11 @@
 # @sauba-ui/react
 
+## 4.0.0
+
+### Major Changes
+
+- Feat: trying to fix fontSizes bug
+
 ## 3.0.0
 
 ### Major Changes
