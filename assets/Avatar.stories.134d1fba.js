@@ -1,0 +1,2 @@
+import{A as t}from"./index.bd87cd1e.js";import"./index.241096c8.js";import"./iframe.822a60f6.js";import"./index.86affd02.js";import"./jsx-runtime.096c4c83.js";const p={title:"Data Display/Avatar",component:t,args:{src:"https://github.com/sauba.png",alt:"Thiago Jos\xE9 de Queiroz"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:void 0}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.134d1fba.js.map
